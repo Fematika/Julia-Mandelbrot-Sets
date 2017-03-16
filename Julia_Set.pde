@@ -21,7 +21,7 @@ void draw() {
  float xmin = -w / 2; //Start at the negative of w/2 so total width will be w
  float ymin = -h / 2; //Start at the negative of h/2 so total height will be h
  
- float xmax =w / 2; //Make total width w
+ float xmax = w / 2; //Make total width w
  float ymax = h / 2; //Make total height h
  
  float dx = w / width; //An iterator for mapping points to pixels
